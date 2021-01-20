@@ -1,8 +1,16 @@
-:capulet => {
-      :patriarch => {name: "Lord Capulet", age: "50"},
-      :matriarch => {name: "Lady Capulet", age: "51"},
-      :heroine => {name: "Juliette", age: "15", status: "alive"},
-      :heroine => {name: "Juliet", age: "15", status: "alive"},
-      :heroine_friends => [
-        #your hashes here!
+def fourth_challenge
+
+
+  epic_tragedy = {
+   :montague => {
+      :patriarch => {name: "Lord Montague", age: "53"},
+
+          {name: "Nurse", age: "44", attitude: "worried"}
       ]
+   }
+}
+  }
+
+
+
+end 
